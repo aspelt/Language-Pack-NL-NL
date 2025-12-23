@@ -178,7 +178,7 @@
     <value>Noot: de standaard taal is &lt;b&gt;{0}&lt;/b&gt;</value>
   </data>
   <data name="lblPages.Help" xml:space="preserve">
-    <value>Selecteer de pagina's om te exporteren. &lt;br /&gt;Als je van plan bent om het geëxporteerde sjabloon te gebruiken om een nieuwe site te maken, verzeker dan om allen te selecteren of geselecteerde Admin pagina's. Als er geen Admin pagina's beschikbaar zijn in het sjabloon dan zal de nieuwe site geen Admin Menu hebben. </value>
+    <value>Selecteer de pagina's om te exporteren. &lt;br /&gt;Als je van plan bent om het geëxporteerde sjabloon te gebruiken om een nieuwe site te maken, verzeker dan om allen te selecteren of geselecteerde sitebeheerder pagina's. Als er geen sitebeheerder pagina's beschikbaar zijn in het sjabloon dan zal de nieuwe site geen sitebeheerder menu hebben. </value>
   </data>
   <data name="lblPages.Text" xml:space="preserve">
     <value>Pagina's om te exporteren</value>

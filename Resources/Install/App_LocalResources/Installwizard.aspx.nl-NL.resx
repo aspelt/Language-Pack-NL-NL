@@ -31,7 +31,7 @@
     <value>Controleren van IIS configuratie</value>
   </data>
   <data name="ChooseDbError.Text" xml:space="preserve">
-    <value>U dient een type database te selecteren</value>
+    <value>Je dient een type database te selecteren</value>
   </data>
   <data name="cmdContinue.Text" xml:space="preserve">
     <value>Volgende</value>
@@ -211,7 +211,7 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
     <value>Controleren van verwijderen van map</value>
   </data>
   <data name="HostWarning.Text" xml:space="preserve">
-    <value>Uw hostnaam bevat illegale karacters (alleen a-Z, 0-9, - en . zijn toegestaan). U dient de gebruikersnaam aan te passen.</value>
+    <value>Je hostnaam bevat illegale karacters (alleen a-Z, 0-9, - en . zijn toegestaan). Je dient de gebruikersnaam aan te passen.</value>
   </data>
   <data name="IISVerificationFail.Text" xml:space="preserve">
     <value>AppPool in IIS moet onder Integrated Mode draaien</value>
@@ -235,7 +235,7 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
     <value>Klaar</value>
   </data>
   <data name="InstallationIntroInfo.Text" xml:space="preserve">
-    <value>De applicatie wordt geïnstalleerd. Een ogenblik geduld alstublieft....</value>
+    <value>De applicatie wordt geïnstalleerd. Een ogenblik geduld alsjeblieft....</value>
   </data>
   <data name="InstallingDataBaseScriptStep.Text" xml:space="preserve">
     <value>Installeren van Database Script</value>

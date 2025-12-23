@@ -286,13 +286,13 @@
     <value>Client Resource Management</value>
   </data>
   <data name="PerformanceTab_ClientResourcesManagementMode.Help" xml:space="preserve" lastModified="2021-09-14 09:30:33">
-    <value>Host Modus gebruikt alle Client Resources Management Instellingen ingesteld op applicatieniveau. Siteniveau staat je toe om je eigen Client Resources Management Instellingen te selecteren.</value>
+    <value>Applicatiebeheerder modus gebruikt alle Client Resources Management Instellingen ingesteld op applicatieniveau. Siteniveau staat je toe om je eigen Client Resources Management Instellingen te selecteren.</value>
   </data>
   <data name="PerformanceTab_ClientResourcesManagementMode.Text" xml:space="preserve" lastModified="2016-12-01 19:39:48">
     <value>Client Resource Management Modus</value>
   </data>
   <data name="PerformanceTab_CurrentHostVersion.Text" xml:space="preserve" lastModified="2016-12-01 19:39:48">
-    <value>Huidige Host Versie:</value>
+    <value>Huidige applicatiebeheerder versie:</value>
   </data>
   <data name="PerformanceTab_CurrentPortalVersion.Text" xml:space="preserve" lastModified="2016-12-01 20:40:05">
     <value>Site Versie:</value>
@@ -445,7 +445,7 @@
     <value>SMTP Inschakelen SSL:</value>
   </data>
   <data name="plSMTPMode.Help" xml:space="preserve" lastModified="2021-09-14 09:34:23">
-    <value>Host Modus verzorgt alle SMTP instellingen ingesteld op applicatie niveau. Site niveau staat je toe om uw eigen SMTP server te selecteren, port en authenticatie methode.</value>
+    <value>Applicatiebeheerder modus verzorgt alle SMTP instellingen ingesteld op applicatie niveau. Site niveau staat je toe om je eigen SMTP server te selecteren, port en authenticatie methode.</value>
   </data>
   <data name="plSMTPMode.Text" xml:space="preserve" lastModified="2016-12-02 12:18:00">
     <value>SMTP Server Modus:</value>

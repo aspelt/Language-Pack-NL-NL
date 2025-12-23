@@ -575,7 +575,7 @@ Met vriendelijk groet,
   <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-Je site is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
+Je site is aangemaakt. Lees alsjeblieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [Membership:UserName]

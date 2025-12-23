@@ -157,7 +157,7 @@
     <value>Je bent nu geabonneerd op rol {0}.</value>
   </data>
   <data name="UserTitle.Text" xml:space="preserve">
-    <value>Bewerk Gebruiker- {0} (Id: {1})</value>
+    <value>Bewerk gebruiker - {0} (Id: {1})</value>
   </data>
   <data name="UserUnAuthorized.Text" xml:space="preserve">
     <value>De gebruiker is nu niet meer geautoriseerd.</value>

@@ -829,7 +829,7 @@
     <value>Je hebt onvoldoende rechten om te kunnen schrijven in de directory {0}. Neem contact op met je hostingprovider om er zeker van te zijn dat de juiste beveiligingsinstellingen op de server zijn ingeschakeld.</value>
   </data>
   <data name="InvalidAnswer.Text" xml:space="preserve">
-    <value>Het antwoord is niet correct. Geef alstublieft een correct antwoord op de vraag.</value>
+    <value>Het antwoord is niet correct. Geef alsjeblieft een correct antwoord op de vraag.</value>
   </data>
   <data name="InvalidCaptcha.Text" xml:space="preserve">
     <value>Onjuiste beveiligingscode</value>
@@ -838,7 +838,7 @@
     <value>Deze weergavenaam is ongeldig.</value>
   </data>
   <data name="InvalidEmail.Text" xml:space="preserve">
-    <value>Het opgegeven e-mailadres is niet correct. Voer alstublieft een geldig e-mailadres in.</value>
+    <value>Het opgegeven e-mailadres is niet correct. Voer alsjeblieft een geldig e-mailadres in.</value>
   </data>
   <data name="InvalidFileName.Text" xml:space="preserve">
     <value>De bestandsnaam is niet correct - deze mag geen ' bevatten</value>
@@ -859,13 +859,13 @@
     <value>Er moet een wachtwoordvraag opgegeven worden.</value>
   </data>
   <data name="InvalidQuestion.Text" xml:space="preserve">
-    <value>De opgegeven vraag is niet correct. Voer alstublieft een correcte vraag in.</value>
+    <value>De opgegeven vraag is niet correct. Voer alsjeblieft een correcte vraag in.</value>
   </data>
   <data name="InvalidRoleId.Text" xml:space="preserve">
     <value>De gespecificeerde rol is ongeldig. Selecteer een geldige rol.</value>
   </data>
   <data name="InvalidUserName.Text" xml:space="preserve">
-    <value>De gebruikersnaam is niet correct. Voer alstublieft een correcte gebruikersnaam in.</value>
+    <value>De gebruikersnaam is niet correct. Voer alsjeblieft een correcte gebruikersnaam in.</value>
   </data>
   <data name="jQuery.NotInstalled.Text" xml:space="preserve">
     <value>jQuery is niet geïnstalleerd.</value>
@@ -1288,7 +1288,7 @@
     <value>Je moet je huidige wachtwoord invoeren voordat je het kunt wijzigen.</value>
   </data>
   <data name="PasswordNotDifferent.Text" xml:space="preserve">
-    <value>Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Voer alstublieft een ander wachtwoord in.</value>
+    <value>Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Voer alsjeblieft een ander wachtwoord in.</value>
   </data>
   <data name="PasswordResetFailed.Text" xml:space="preserve">
     <value>Je nieuwe wachtwoord kan niet worden geaccepteerd wegens beveiligingsredenen. Let erop dat het wachtwoord dat je gekozen hebt niet overeenkomt met een eerder gebruikt wachtwoord en voldoet aan de gestelde eisen voor de complexiteit van het wachtwoord door de website.</value>

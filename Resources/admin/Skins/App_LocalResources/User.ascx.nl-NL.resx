@@ -16,7 +16,7 @@
     <value>Berichten controleren</value>
   </data>
   <data name="CheckNotifications.Text" xml:space="preserve">
-    <value>Selectievakje kennisgevingen</value>
+    <value>Kennisgevingen controleren</value>
   </data>
   <data name="Messages.Text" xml:space="preserve">
     <value>&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt;Berichten&lt;/strong&gt;</value>
@@ -43,7 +43,7 @@
     <value>Klik hier om naar je profiel te gaan.</value>
   </data>
   <data name="ToolTipNewMessages.Text" xml:space="preserve">
-    <value>Je hebt {0} nieuwe bericht(en). Klik hier om naar je profiel pagina te gaan.</value>
+    <value>Je hebt {0} nieuwe bericht(en). Klik hier om naar je profielpagina te gaan.</value>
   </data>
   <data name="VisitMyProfile.Text" xml:space="preserve">
     <value>Bezoek mijn profiel</value>
