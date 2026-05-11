@@ -25,7 +25,7 @@
     <value>Toevoegen alle niet gelokaliseerde pagina's</value>
   </data>
   <data name="AdminOnly.Text" xml:space="preserve">
-    <value>Enkel voor de sitebeheerder</value>
+    <value>Alleen voor de sitebeheerder</value>
   </data>
   <data name="Alias.Header" xml:space="preserve">
     <value>ALIAS</value>
@@ -34,7 +34,7 @@
     <value>Vink dit vakje aan om gebruikers van de site toe te staan om een andere taal voor de interface te selecteren dan degene die gebruikt wordt voor de content.</value>
   </data>
   <data name="allowUserCulture.Text" xml:space="preserve">
-    <value>Gebruikers mogen interface taal kiezen</value>
+    <value>Gebruikers mogen een interface taal kiezen</value>
   </data>
   <data name="AllPagesTranslatable.Help" xml:space="preserve">
     <value>Vink dit vakje aan om alle pagina's binnen de standaard taal vertaalbaar te maken en maak een kopie van alle vertaalbare pagina's voor elke ingeschakelde taal.</value>
@@ -61,7 +61,7 @@
     <value>TERUG NAAR SITE INSTELLINGEN</value>
   </data>
   <data name="BrowseAction.Text" xml:space="preserve">
-    <value>Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
+    <value>Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]} om te annuleren</value>
   </data>
   <data name="BrowseButton.Text" xml:space="preserve">
     <value>Blader in bestandssysteem</value>
@@ -100,7 +100,7 @@
     <value>Verklein index</value>
   </data>
   <data name="CompactIndexConfirmationMessage.Text" xml:space="preserve">
-    <value>Het verkleinen van de Index kan CPU intensief zijn en kan mogelijkerwijs twee keer zoveel ruimte innemen als de huidige Index Store bij het verwerken. Het verkleinen wordt gedaan door zoek bots en hangt af van de plannings frequentie. Weet je zeker dat je door wilt gaan?</value>
+    <value>Het verkleinen van de Index kan CPU intensief zijn en kan mogelijk twee keer zoveel ruimte innemen als de huidige Index Store bij het verwerken. Het verkleinen wordt gedaan door zoekbots en hangt af van de planningsfrequentie. Weet je zeker dat je door wilt gaan?</value>
   </data>
   <data name="ControlTitle_verify.Text" xml:space="preserve">
     <value>Bron bestand controleur</value>
@@ -115,7 +115,7 @@
     <value>CULTUUR</value>
   </data>
   <data name="CurrentSiteDefault.Help" xml:space="preserve">
-    <value>Eenmaal dat gelokaliseerde content is ingeschakeld, zal de standaard site cultuur permanent worden ingesteld en kan niet meer worden gewijzigd. Klik Annuleren als je de huidige site standaard wilt wijzigen. </value>
+    <value>Wanneer vertaaldecontent is ingeschakeld, zal de standaard site cultuur permanent worden ingesteld en kan niet meer worden gewijzigd. Klik Annuleren als je de huidige site standaard wilt wijzigen. </value>
   </data>
   <data name="CurrentSiteDefault.Text" xml:space="preserve">
     <value>Huidige site standaard:</value>
@@ -139,10 +139,10 @@
     <value>Moet een geheel getal zijn</value>
   </data>
   <data name="DataConsentDelay.Text" xml:space="preserve">
-    <value>Hard verwijderen vertraging</value>
+    <value>Definitief verwijderen vertraging</value>
   </data>
   <data name="DataConsentResetTerms.Completed" xml:space="preserve">
-    <value>Alle goedkeuringen zijn ge-reset en alle gebruikers moeten (opnieuw)  akkoord gaan met de gebruiksvoorwaarden.</value>
+    <value>Alle goedkeuringen zijn gereset en alle gebruikers moeten (opnieuw)  akkoord gaan met de gebruiksvoorwaarden.</value>
   </data>
   <data name="DataConsentResetTerms.Confirm" xml:space="preserve">
     <value>Wil je de goedkeuringen die alle gebruikers hebben gegeven, resetten en opnieuw vragen om akkoord te gaan met de voorwaarden?</value>
@@ -157,7 +157,7 @@
     <value>Data toestemming instellingen</value>
   </data>
   <data name="DataConsentUserDelayedHardDelete.Text" xml:space="preserve">
-    <value>Vertraagde harde verwijdering</value>
+    <value>Vertraagde definitieve verwijdering</value>
   </data>
   <data name="DataConsentUserDeleteAction.Help" xml:space="preserve">
     <value>Geef aan wat er moet gebeuren wanneer een gebruiker een verwijderverzoek indient voor deze site.</value>
@@ -169,7 +169,7 @@
     <value>Handmatig</value>
   </data>
   <data name="DataConsentUserHardDelete.Text" xml:space="preserve">
-    <value>Hard verwijderen</value>
+    <value>Definitief verwijderen</value>
   </data>
   <data name="DataType.Header" xml:space="preserve">
     <value>Data Type:</value>
@@ -196,7 +196,7 @@
     <value>Standaard zichtbaarheid</value>
   </data>
   <data name="DeletedAllLocalizedPages.Text" xml:space="preserve">
-    <value>Gelokaliseerde pagina's succesvol verwijderd.</value>
+    <value>Vertaalde pagina's succesvol verwijderd.</value>
   </data>
   <data name="DeleteError.Text" xml:space="preserve">
     <value>Kon het profiel veld niet verwijderen. Probeer later nog eens. </value>
@@ -214,7 +214,7 @@
     <value>Weet je zeker dat je de taal wilt uitschakelen {0}?</value>
   </data>
   <data name="DisableLocalizedContent.Text" xml:space="preserve">
-    <value>Uitschakelen gelokaliseerde content</value>
+    <value>Uitschakelen lokale vertalingen </value>
   </data>
   <data name="DragDefault.Text" xml:space="preserve">
     <value>Sleep een bestand hierheen of selecteer een optie</value>
@@ -223,19 +223,19 @@
     <value>Sleep een bestand hierheen</value>
   </data>
   <data name="DuplicateAlias.Text" xml:space="preserve">
-    <value>De sitealias die je heeft ingegeven bestaat al. Kies een ander sitealias.</value>
+    <value>De sitealias die je hebt ingevoerd bestaat al. Kies een ander sitealias.</value>
   </data>
   <data name="DuplicateEntries.Text" xml:space="preserve">
-    <value>Bestanden met dedupliceerde entries:</value>
+    <value>Bestanden met dubbele waarden:</value>
   </data>
   <data name="DuplicateName.Text" xml:space="preserve">
-    <value>Deze property bestaat al. Property namen moeten uniek zijn. Selecteer een andere naam voor deze property.</value>
+    <value>Deze eigenschap bestaat al. Namen van eigenschappen moeten uniek zijn. Selecteer een andere naam voor deze eigenschap.</value>
   </data>
   <data name="EditPageSettings.Text" xml:space="preserve">
-    <value>[ Bewerk pagina instellingen ]</value>
+    <value>[Bewerk pagina instellingen]</value>
   </data>
   <data name="ElapsedTime.Text" xml:space="preserve">
-    <value>Verstreken Tijd:</value>
+    <value>Verstreken tijd:</value>
   </data>
   <data name="Enabled.Header.Text" xml:space="preserve">
     <value>INGESCHAKELD</value>
@@ -244,13 +244,13 @@
     <value>Taal inschakelen</value>
   </data>
   <data name="EnableLocalizedContent.Text" xml:space="preserve">
-    <value>Inschakelen gelokaliseerde content</value>
+    <value>Inschakelen vertaalde inhoud</value>
   </data>
   <data name="EnableLocalizedContentClickCancel.Text" xml:space="preserve">
     <value>Klik annuleren als je de standaard van de huidige site wilt wijzigen.</value>
   </data>
   <data name="EnableLocalizedContentHelpText.Text" xml:space="preserve">
-    <value>Inschakelen gelokaliseerde content staat je toe om vertaalde module content te geven als toevoeging op het weergeven van statische tekst. Eenmaal dat gelokaliseerde content is ingeschakeld dan zal de standaard site cultuur permanent zijn ingesteld en &lt;strong&gt;kan niet worden gewijzigd &lt;/strong&gt;.</value>
+    <value>Inschakelen vertaalde inhoud staat je toe om vertaalde module inhoud te geven als toevoeging op het weergeven van statische tekst. Wanneer de optie is ingeschakeld dan zal de standaard site cultuur permanent zijn ingesteld en &lt;strong&gt;kan niet worden gewijzigd &lt;/strong&gt;.</value>
   </data>
   <data name="EnableSortOrder.Help" xml:space="preserve">
     <value>Vink dit selectievakje aan om aangepaste sortering van inzendingen in deze lijst aan te zetten</value>
@@ -397,7 +397,7 @@
     <value>Vink dit vakje aan om zoekcriteria terug te sturen die voorkomen in een woord eerder dan enkel aan het begin van een woord. Waarschuwing: Inschakelen wildcard zoeken kan prestatie problemen veroorzaken.</value>
   </data>
   <data name="lblAllowLeadingWildcard.Text" xml:space="preserve">
-    <value>Inschakelen Gedeeltelijk-Woord Zoeken (langzaam)</value>
+    <value>Inschakelen gedeeltelijk-woordzoeken (langzaam)</value>
   </data>
   <data name="lblAuthorBoost.Help" xml:space="preserve">
     <value>Auteur versnellingswaarde is geassocieerd met de auteur zoals het geïndexeerd is. Hoe hoger de waarde, hoe relevanter het veld zal zijn om te bepalen wat de volgorde van resultaten zal zijn.</value>
@@ -406,10 +406,10 @@
     <value>Auteur versnelling</value>
   </data>
   <data name="lblContentBoost.Help" xml:space="preserve">
-    <value>Content versnellingswaarde is geassocieerd met de content zoals deze geïndexeerd is. Hoe hoger de waarde, hoe relevanter het veld zal zijn om te bepalen wat de volgorde van resultaten zal zijn.</value>
+    <value>Inhoud versnellingswaarde is geassocieerd met de inhoud zoals deze geïndexeerd is. Hoe hoger de waarde, hoe relevanter het veld zal zijn om te bepalen wat de volgorde van resultaten zal zijn.</value>
   </data>
   <data name="lblContentBoost.Text" xml:space="preserve">
-    <value>Content versnelling</value>
+    <value>Inhoud versnelling</value>
   </data>
   <data name="lblCustomAnalyzer.Help" xml:space="preserve">
     <value>Als dit veld leeg is, dan zal het systeem de standaard analyzer gebruiken om de content te indexeren. Als je de aangepaste analyzer wilt gebruiken, typ dan de volledig naam van de analyzer class in dit veld. Opmerking als je bestaande content met de nieuwe analyzer wilt indexeren, ga dan naar: Beheerder &gt; Zoek sitebeheerder pagina op elke site die je wilt her-indexeren en klik op de "her-indexeer content" knop.</value>
@@ -424,13 +424,13 @@
     <value>Beschrijving versnelling</value>
   </data>
   <data name="lblIndexWordMaxLength.Help" xml:space="preserve">
-    <value>Vul maximum woordlengte in die gebruikt mag worden in de Index.</value>
+    <value>Vul maximum woordlengte in die gebruikt mag worden in de index.</value>
   </data>
   <data name="lblIndexWordMaxLength.Text" xml:space="preserve">
     <value>Maximum woordlengte</value>
   </data>
   <data name="lblIndexWordMinLength.Help" xml:space="preserve">
-    <value>Vul minimum woordlengte in die gebruikt mag worden in de Index.</value>
+    <value>Vul minimum woordlengte in die gebruikt mag worden in de index.</value>
   </data>
   <data name="lblIndexWordMinLength.Text" xml:space="preserve">
     <value>Minimum woordlengte</value>
@@ -442,7 +442,7 @@
     <value>Naam bronpakket</value>
   </data>
   <data name="lbLocale.Help" xml:space="preserve">
-    <value>Selecteer de Locale (taal) waar je het taalpakket voor wilt genereren.</value>
+    <value>Selecteer de lokale (taal) waar je het taalpakket voor wilt genereren.</value>
   </data>
   <data name="lbLocale.Text" xml:space="preserve">
     <value>Brontaal</value>
@@ -469,10 +469,10 @@
     <value>Laatst aangepaste tijd van zoekindexbestanden</value>
   </data>
   <data name="lblSearchIndexLastModifiedOn.Text" xml:space="preserve">
-    <value>Laatste aangepast op</value>
+    <value>Laatste wijziging op</value>
   </data>
   <data name="lblSearchIndexPath.Help" xml:space="preserve">
-    <value>Locatie waar zoekindex is opgeslagen. Deze locatie kan handmatig worden veranderd door het maken van een Applicatieinstelling "Search_UIndexFolder" in database. Het wordt geadviseerd om de App Pool te stoppen voordat deze wijziging wordt gemaakt. Content uit de oude map moet handmatig worden gekopieerd naar de nieuwe locatie of een handmatige her-indexering moet worden aangeroepen.</value>
+    <value>Locatie waar zoekindex is opgeslagen. Deze locatie kan handmatig worden veranderd door het maken van een Applicatieinstelling "Search_UIndexFolder" in database. Het wordt geadviseerd om de App Pool te stoppen voordat deze wijziging wordt gemaakt. Inhoud uit de oude map moet handmatig worden gekopieerd naar de nieuwe locatie of een handmatige her-indexering moet worden aangeroepen.</value>
   </data>
   <data name="lblSearchIndexPath.Text" xml:space="preserve">
     <value>Zoekindexpad</value>
@@ -499,7 +499,7 @@
     <value>Vul URL-link in</value>
   </data>
   <data name="LinkInputAction.Text" xml:space="preserve">
-    <value>Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
+    <value>Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]} om te annuleren</value>
   </data>
   <data name="LinkInputPlaceholder.Text" xml:space="preserve">
     <value>https://voorbeeld.nl/afbeeldingsnaam.jpg</value>
@@ -508,7 +508,7 @@
     <value>URL-Link</value>
   </data>
   <data name="ListEntries.Help" xml:space="preserve">
-    <value>Beheer lijstitems's</value>
+    <value>Beheer lijstitems</value>
   </data>
   <data name="ListEntries.Text" xml:space="preserve">
     <value>Lijstitems</value>
@@ -520,7 +520,7 @@
     <value>Weet je zeker dat je het lijstitem wilt verwijderen?</value>
   </data>
   <data name="ListEntryDeleteError.Text" xml:space="preserve">
-    <value>Kon de lijstlemma niet verwijderen. Probeer het later.</value>
+    <value>Kon het lijstitem  niet verwijderen. Probeer het later nogmaals.</value>
   </data>
   <data name="ListEntryDeleteSuccess.Text" xml:space="preserve">
     <value>De lijstitem is verwijderd.</value>
@@ -544,22 +544,22 @@
     <value>Lokale bronnen</value>
   </data>
   <data name="MakeNeutralWarning.Text" xml:space="preserve">
-    <value>Dit zal de vertaalde versie van deze pagina verwijderen. Enkel de standaard cultuur versie van de pagina zal overblijven. Weet je zeker dat je wilt overblijven?</value>
+    <value>Dit zal de vertaalde versie van deze pagina verwijderen. Alleen de standaard cultuur versie van de pagina zal overblijven. Weet je zeker dat je wilt overblijven?</value>
   </data>
   <data name="MarkAllPagesAsTranslated.Text" xml:space="preserve">
     <value>Markeer alle pagina's als vertaald</value>
   </data>
   <data name="MembersOnly.Text" xml:space="preserve">
-    <value>Enkel voor leden</value>
+    <value>Alleen voor leden</value>
   </data>
   <data name="MessageCompactIndexWarning.Text" xml:space="preserve">
-    <value>Compact maken van Index herwint ruimte van verwijderde items in de Index store. Compact maken wordt aanbevolen enkel als er veel verwijderde documenten zijn in de Index Store. Compact maken heeft mogelijkerwijs twee keer zoveel ruimte nodig van de huidige Index Store tijdens het verwerken. </value>
+    <value>Compact maken van Index herwint ruimte van verwijderde items in de Index store. Compact maken wordt aanbevolen enkel als er veel verwijderde documenten zijn in de Index Store. Compact maken heeft twee keer zoveel ruimte nodig van de huidige Index Store tijdens het verwerken. </value>
   </data>
   <data name="MessageIndexWarning.Text" xml:space="preserve">
     <value>Waarschuwing: Compact maken of her-indexering zou gedaan moeten worden buiten de piekuren aangezien dat het CPU intensief is.</value>
   </data>
   <data name="MessageReIndexWarning.Text" xml:space="preserve">
-    <value>Her-indexering verwijdert bestaande content van de Index Store and her-indexeert alles. Her-indexering wordt gedaan als onderdeel van zoek bots geplande taken. Om direct te her-indexeren moeten de zoek bots handmatig worden uitgevoerd vanuit de planner.</value>
+    <value>Her-indexering verwijdert bestaande inhoud van de Index Store en her-indexeert alles. Her-indexering wordt gedaan als onderdeel van zoekbots geplande taken. Om direct te her-indexeren moeten de zoek bots handmatig worden uitgevoerd vanuit de planner.</value>
   </data>
   <data name="MicroServices.Text" xml:space="preserve">
     <value>MicroServices</value>
@@ -616,7 +616,7 @@
     <value>Dit veld accepteert geen speciale tekens.</value>
   </data>
   <data name="NotSpecified.Text" xml:space="preserve">
-    <value>&lt; Geen gespecificeerd &gt; </value>
+    <value>&lt;Geen gespecificeerd&gt;</value>
   </data>
   <data name="ObsoleteEntries.Text" xml:space="preserve">
     <value>Bestanden met verouderde entries:</value>
@@ -631,7 +631,7 @@
     <value>Alleen afbeeldingen</value>
   </data>
   <data name="OpenHtmlEditor.Text" xml:space="preserve">
-    <value>Open HTML Editor Beheer</value>
+    <value>Open HTML Editor beheer</value>
   </data>
   <data name="PageOutputSettings.Text" xml:space="preserve">
     <value>Paginaoutputinstellingen</value>
@@ -646,10 +646,10 @@
     <value>Pagina's succesvol vertaald</value>
   </data>
   <data name="PagesToTranslate.Text" xml:space="preserve">
-    <value>Pagina's te vertalen</value>
+    <value>Te vertalen pagina's:</value>
   </data>
   <data name="pl404TabId.Help" xml:space="preserve">
-    <value>De 404 fout pagina voor je site. Gebruikers zullen worden doorgestuurd naar deze pagina als de URL waar zij naar navigeren resulteert met een "Pagina Niet Gevonden" fout.</value>
+    <value>De 404 fout pagina voor je site. Gebruikers zullen worden doorgestuurd naar deze pagina als de URL waar zij naar navigeren resulteert met een "Pagina niet gevonden" fout.</value>
   </data>
   <data name="pl404TabId.Text" xml:space="preserve">
     <value>404 fout pagina</value>
@@ -667,10 +667,10 @@
     <value>Toegestane bestandsextensies</value>
   </data>
   <data name="plAutoAddPortalAlias.Help" xml:space="preserve">
-    <value>Deze instelling bepaalt hoe de site reageert op URL's die in kaart zijn gebracht op de site, maar momenteel niet in de lijst van aliassen staan. Deze instelling is enkel effectief in enkele site configuratie. Sselecteer deze optie om automatisch nieuwe URL in kaart te brengen.</value>
+    <value>Deze instelling bepaalt hoe de site reageert op URL's die in kaart zijn gebracht op de site, maar momenteel niet in de lijst van aliassen staan. Deze instelling is enkel effectief in enkele site configuratie. Selecteer deze optie om automatisch nieuwe URL in kaart te brengen.</value>
   </data>
   <data name="plAutoAddPortalAlias.Text" xml:space="preserve">
-    <value>Automatisch Site Aliassen toevoegen</value>
+    <value>Site aliassen automatisch toevoegen</value>
   </data>
   <data name="plCategoryName.Help" xml:space="preserve">
     <value>Vul de tekst in voor de categorie naam in de geselecteerde taal.</value>
@@ -697,10 +697,10 @@
     <value>Uitschakelen prive berichten</value>
   </data>
   <data name="plEnableContentLocalization.Help" xml:space="preserve">
-    <value>Vink dit vakje aan om sitebeheerders toe te staan om content lokalisatie in te schakelen voor hun site. </value>
+    <value>Vink dit vakje aan om sitebeheerders toe te staan om inhoudslokalisatie in te schakelen voor hun site. </value>
   </data>
   <data name="plEnableContentLocalization.Text" xml:space="preserve">
-    <value>Content lokalisatie toestaan</value>
+    <value>Inhoudslokalisatie toestaan</value>
   </data>
   <data name="plFavIcon.Help" xml:space="preserve">
     <value>De geselecteerde favicon zal worden toegepast op alle pagina's van de site.</value>
@@ -709,7 +709,7 @@
     <value>Favicon</value>
   </data>
   <data name="plFooterText.Help" xml:space="preserve">
-    <value>Indien ondersteund door het thema, zal deze Copyright tekst worden weergegeven op je site.</value>
+    <value>Indien ondersteund door het thema, zal deze copyright tekst worden weergegeven op je site.</value>
   </data>
   <data name="plFooterText.Text" xml:space="preserve">
     <value>Copyright</value>
@@ -757,7 +757,7 @@
     <value>Kies taal</value>
   </data>
   <data name="plLoginTabId.Help" xml:space="preserve">
-    <value>De inlogpagina voor je site. Enkel pagina's met de Account Inlog Module worden getoond. </value>
+    <value>De inlogpagina voor je site. Alleen pagina's met de Account inlogmodule worden getoond. </value>
   </data>
   <data name="plLoginTabId.Text" xml:space="preserve">
     <value>Inlogpagina</value>
@@ -778,13 +778,13 @@
     <value>Bijlagen toestaan</value>
   </data>
   <data name="plMsgProfanityFilters.Help" xml:space="preserve">
-    <value>Inschakelen om automatisch ongepaste woorden en zinnen te converteren naar iets gelijkaardigs. De lijst wordt beheerd op de Applicatiebeheer-&amp;gt;List-&amp;gt;ProfanityFilters en de Site-&amp;gt;List-&amp;gt;ProfanityFilters pagina's.</value>
+    <value>Schakel deze functie in om ongepaste woorden en uitdrukkingen automatisch om te zetten in een equivalent. De lijst wordt beheerd via de pagina's Host-&gt;Lijst-&gt;Filters voor ongepaste woorden en uitdrukkingen en Beheerder-&gt;Lijst-&gt;Filters voor ongepaste woorden en uitdrukkingen.</value>
   </data>
   <data name="plMsgProfanityFilters.Text" xml:space="preserve">
     <value>Inschakelen ongepaste woorden filters</value>
   </data>
   <data name="plMsgRecipientLimit.Help" xml:space="preserve">
-    <value>Maximum aantal ontvangers toegestaan in Naar veld. een bericht verzonden naar een Rol wordt beschouwd als een enkele ontvanger.</value>
+    <value>Maximum aantal ontvangers toegestaan in het AAN veld. een bericht verzonden naar een Rol wordt beschouwd als een enkele ontvanger.</value>
   </data>
   <data name="plMsgRecipientLimit.Text" xml:space="preserve">
     <value>Ontvangers limiet</value>
@@ -799,10 +799,10 @@
     <value>Vul enkele tags in (i.e. META tags) die moeten worden weergegeven in de "Head" tag van de HTML voor deze pagina.</value>
   </data>
   <data name="plPageHeadText.Text" xml:space="preserve">
-    <value>HTML Pagina Header Tags</value>
+    <value>HTML Paginaheader tags</value>
   </data>
   <data name="plPortalName.Help" xml:space="preserve">
-    <value>Vul een site titel in. Deze titel zal getoond worden in de webbrowser Title Bar en zal een tooltip zijn op het site Logo.</value>
+    <value>Vul een site titel in. Deze titel zal getoond worden in de webbrowser Titel en zal een tooltip zijn op het sitelogo.</value>
   </data>
   <data name="plPortalName.Text" xml:space="preserve">
     <value>Sitetitel</value>
@@ -817,7 +817,7 @@
     <value>Vul de Help in voor deze entiteit in de geselecteerde taal.</value>
   </data>
   <data name="plPropertyHelp.Text" xml:space="preserve">
-    <value>Veld Help</value>
+    <value>Veld help</value>
   </data>
   <data name="plPropertyName.Help" xml:space="preserve">
     <value>Vul de tekst in voor de naam van de entiteit in de geselecteerde taal.</value>
@@ -1012,7 +1012,7 @@
     <value>Voortgang [number]%</value>
   </data>
   <data name="PropertyDefinitionDeletedWarning.Text" xml:space="preserve">
-    <value>Weet je zeker dat je het profiel veld wilt verwijderen</value>
+    <value>Weet je zeker dat je dit profielveld wilt verwijderen</value>
   </data>
   <data name="PropertyDefinitionUpdateSuccess.Text" xml:space="preserve">
     <value>Profielvelden zijn bijgewerkt</value>
@@ -1051,7 +1051,7 @@
     <value>De vereiste lengte moet een geheel getal zijn, groter dan of gelijk aan 0. Als je een Tekstbox veld gebruikt, dan moet de vereiste lengte groter zijn dan 0.</value>
   </data>
   <data name="Reset.Text" xml:space="preserve">
-    <value>Reset</value>
+    <value>Herstel</value>
   </data>
   <data name="ResourceFile.Text" xml:space="preserve">
     <value>Bronbestand</value>
@@ -1321,7 +1321,7 @@
     <value>Weergave volgorde is bijgewerkt.</value>
   </data>
   <data name="ViewPage.Text" xml:space="preserve">
-    <value>[Bekijk Pagina]</value>
+    <value>[Bekijk pagina]</value>
   </data>
   <data name="Visible.Header" xml:space="preserve">
     <value>Zichtbaar</value>
@@ -1340,5 +1340,107 @@
   </data>
   <data name="Yes.Text" xml:space="preserve">
     <value>Ja</value>
+  </data>
+  <data name="lblMaxResultPerPage">
+    <value>Maximum resultaat per pagina</value>
+  </data>
+  <data name="lblMaxResultPerPage.Help">
+    <value>Maximum resultaat per pagina in de zoekservice</value>
+  </data>
+  <data name="MoreSettings.Text">
+    <value>Meer instellingen</value>
+  </data>
+  <data name="plAllowJsInModuleFooters.Help">
+    <value>Wanneer deze optie is ingeschakeld, is er geen JavaScript toegestaan ​​in de waarde die is ingesteld voor de voettekst van een module.</value>
+  </data>
+  <data name="plAllowJsInModuleFooters.Text">
+    <value>JavaScript toestaan ​​in de voettekst van de module.</value>
+  </data>
+  <data name="plAllowJsInModuleHeaders.Help">
+    <value>Wanneer deze optie is ingeschakeld, is er geen JavaScript toegestaan ​​in de waarde die is ingesteld voor een moduleheader.</value>
+  </data>
+  <data name="plAllowJsInModuleHeaders.Text">
+    <value>JavaScript toestaan ​​in de moduleheader</value>
+  </data>
+  <data name="plDefaultTabWorkflowId.Help">
+    <value>Selecteer de standaard inhoudsworkflow die moet worden toegepast.</value>
+  </data>
+  <data name="plDefaultTabWorkflowId.Text">
+    <value>Standaard inhoudsworkflow</value>
+  </data>
+  <data name="plEnabledVersioning.Help">
+    <value>Indien ingeschakeld, maakt DNN tijdens het bewerken een nieuwe versie van de gepubliceerde pagina aan en bewaart het een aantal oudere versies in de geschiedenis.</value>
+  </data>
+  <data name="plEnabledVersioning.Text">
+    <value>Versiebeheer inschakelen</value>
+  </data>
+  <data name="plEnablePopups.Help">
+    <value>Wanneer DNN is ingeschakeld, worden enkele standaardbesturingselementen in een pop-upvenster geladen. Anders wordt de pagina opnieuw geladen en wordt het besturingselement ingesloten op de pagina weergegeven.</value>
+  </data>
+  <data name="plEnablePopups.Text">
+    <value>Pop-ups inschakelen</value>
+  </data>
+  <data name="plInjectModuleHyperLink.Help">
+    <value>Wanneer DNN is ingeschakeld, voegt het aan het begin van elke module een anker toe met de module-ID als naam.</value>
+  </data>
+  <data name="plInjectModuleHyperLink.Text">
+    <value>Module-anker injecteren</value>
+  </data>
+  <data name="plInlineEditorEnabled.Help">
+    <value>Wanneer DNN is ingeschakeld, kunnen editors de inhoud van HTML-modules rechtstreeks op de pagina bewerken in plaats van via het bewerkingsmenu te moeten gaan.</value>
+  </data>
+  <data name="plInlineEditorEnabled.Text">
+    <value>Inline-editor ingeschakeld</value>
+  </data>
+  <data name="plMaxNumberOfVersions.Help">
+    <value>Selecteer het maximale aantal paginaversies dat in de geschiedenis bewaard moet worden.</value>
+  </data>
+  <data name="plMaxNumberOfVersions.Text">
+    <value>Maximaal aantal versies</value>
+  </data>
+  <data name="plMsgSendEmail.Help">
+    <value>Selecteer of er voor elk bericht en elke melding een e-mail naar de ontvangers moet worden verzonden.</value>
+  </data>
+  <data name="plMsgSendEmail.Text">
+    <value>E-mails verzenden</value>
+  </data>
+  <data name="plShowQuickModuleAddMenu.Help">
+    <value>Indien ingeschakeld, verschijnt er een vervolgkeuzemenu in de bewerkingsbalk waarmee gebruikers snel een module aan een specifiek paneel kunnen toevoegen.</value>
+  </data>
+  <data name="plShowQuickModuleAddMenu.Text">
+    <value>Toon het menu 'Snelmodule toevoegen'</value>
+  </data>
+  <data name="plWorkflowEnabled.Help">
+    <value>Indien ingeschakeld, zal DNN de geselecteerde contentworkflow afdwingen tijdens het publicatieproces van paginabewerkingen.</value>
+  </data>
+  <data name="plWorkflowEnabled.Text">
+    <value>Inhoudsworkflow inschakelen</value>
+  </data>
+  <data name="Portal.Text">
+    <value>Site</value>
+  </data>
+  <data name="Redirect_AfterLogin.Help">
+    <value>U kunt optioneel de pagina selecteren waarnaar gebruikers worden doorgestuurd na een succesvolle aanmelding.</value>
+  </data>
+  <data name="Redirect_AfterLogin.Text">
+    <value>Redirect na inloggen</value>
+  </data>
+  <data name="Redirect_AfterLogout.Help">
+    <value>U kunt optioneel de pagina selecteren waarnaar gebruikers worden doorgestuurd na het uitloggen.</value>
+  </data>
+  <data name="Redirect_AfterLogout.Text">
+    <value>Redirect na uitloggen</value>
+  </data>
+  <data name="Redirect_AfterRegistration.Help">
+    <value>U kunt optioneel de pagina selecteren waarnaar gebruikers worden doorgestuurd na een succesvolle registratie.</value>
+  </data>
+  <data name="Redirect_AfterRegistration.Text">
+    <value>Redirect na registratie</value>
+  </data>
+  <data name="valMaxResultPerPageRequired.Error">
+    <value>Maximaal aantal resultaten per pagina vereist. Het getal moet groter zijn dan 0.</value>
+  </data>
+  <data name="WorkflowSettings.Text">
+    <value>Workflow instellingen</value>
   </data>
 </root>
