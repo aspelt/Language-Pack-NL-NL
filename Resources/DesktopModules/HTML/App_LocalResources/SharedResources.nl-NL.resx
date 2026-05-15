@@ -16,12 +16,12 @@
     <value>Goedkeuren</value>
   </data>
   <data name="NotificationBody.Text" xml:space="preserve">
-    <value>Content is in a [STATE] status op de volgende pagina van jesite: 
+    <value>De inhoud bevindt zich in een [STATE]-status op de volgende pagina van uw site:
 &lt;br /&gt;
 &lt;a href='[URL]'&gt;[URL]&lt;/a&gt;</value>
   </data>
   <data name="NotificationSubject.Text" xml:space="preserve">
-    <value>Inhoud [ACTION] Kennisgeving</value>
+    <value>Melding voor inhoudsbeoordeling</value>
   </data>
   <data name="PublishContent.Action" xml:space="preserve">
     <value>Publiceren</value>
