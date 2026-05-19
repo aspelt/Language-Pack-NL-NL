@@ -13,6 +13,7 @@ When the language pack is ready for a new version:
 # DNN Language Pack for (nl-NL)
 
 Versions available:
+* DNN 10.02.00
 * DNN 09.13.10
 * DNN 09.13.00
 * DNN 09.10.00
