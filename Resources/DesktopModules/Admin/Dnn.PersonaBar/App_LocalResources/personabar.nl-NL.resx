@@ -22,19 +22,19 @@
     <value>Documentatie</value>
   </data>
   <data name="err_BetweenMinMax.Text" xml:space="preserve">
-    <value>Waarde kan enkel tussen Min waarde en Max waarde in zijn</value>
+    <value>De waarde kan enkel tussen Min waarde en Max waarde in zijn</value>
   </data>
   <data name="err_Email.Text" xml:space="preserve">
     <value>Alleen een geldig e-mailadres is toegestaan</value>
   </data>
   <data name="err_Minimum.Text" xml:space="preserve">
-    <value>Tekst moet minstens {0} tekens hebben</value>
+    <value>De tekst moet minstens {0} tekens bevatten</value>
   </data>
   <data name="err_MinLessThanMax.Text" xml:space="preserve">
     <value>De minimum waarde moet kleiner zijn dan de maximum waarde.</value>
   </data>
   <data name="err_NoLargerThanExp.Text" xml:space="preserve">
-    <value>Reputatie punten kunnen niet groter zijn dan ervaring punten</value>
+    <value>Reputatiepunten kunnen niet groter zijn dan ervaringspunten</value>
   </data>
   <data name="err_NonDecimalNumber.Text" xml:space="preserve">
     <value>Decimale getallen zijn niet toegestaan</value>
@@ -121,7 +121,7 @@
     <value>Gereedschappen</value>
   </data>
   <data name="NormalUpdate.Text" xml:space="preserve">
-    <value>[ Nieuwe update ]</value>
+    <value>[Nieuwe update]</value>
   </data>
   <data name="permissiongrid.Actions.Text" xml:space="preserve">
     <value>Acties</value>
@@ -217,6 +217,6 @@
     <value>Laatste versie</value>
   </data>
   <data name="Update.Text">
-    <value>Bijwerken</value>
+    <value>Update</value>
   </data>
 </root>

@@ -73,90 +73,68 @@
     <value>Gebruikersprofiel</value>
   </data>
   <data name="403_3.Error" xml:space="preserve">
-    <value>    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
-        &amp;lt;h3&amp;gt;
-            DotNetNuke Configuratiefout&amp;lt;/h3&amp;gt;
-        &amp;lt;p&amp;gt;
-            {0}&amp;lt;/p&amp;gt;
-        &amp;lt;p&amp;gt;
-            Je DNN installatie lijkt een probleem met de beveiligingsinstellingen te
-            hebben (waarschijnlijk machtigingen). DNN heeft uitgebreide bestandsupload mogelijkheden
-            voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
-            zodat de applicatie in staat is om deze aan te maken en/of te verwijderen in je site.&amp;lt;/p&amp;gt;
-        &amp;lt;p&amp;gt;
-            Op de webserver gebruik je de Windows Verkenner, blader je naar de hoofdmap van de website. Rechtsklik
-            op de map en selecteer Delen en Beveiliging uit het menu.
-            Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
-            in.&amp;lt;/p&amp;gt;
-        &amp;lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&amp;gt;
-            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 2000 - IIS5&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
-                &amp;lt;ol style="list-style-type: circle;"&amp;gt;
-                    &amp;lt;li&amp;gt;het account [SERVER]\ASPNET moet Lees, Schrijf en Aanpassen rechten hebben op de
-                        gehele applicatie directory.&amp;lt;/li&amp;gt;
-                &amp;lt;/ol&amp;gt;
-                &amp;lt;br /&amp;gt;
-            &amp;lt;/li&amp;gt;
-            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 2003 - IIS6 or Vista/Windows 2008 - IIS7&amp;lt;/strong&amp;gt;
-                &amp;lt;br /&amp;gt;
-                &amp;lt;ol style="list-style-type: circle;"&amp;gt;
-                    &amp;lt;li&amp;gt;Het account NT AUTHORITY\NETWORK SERVICE&amp;amp;nbsp; moet Lees, Schrijf en Aanpassen rechten
-                        hebben op de gehele applicatie directory.&amp;lt;/li&amp;gt;
-                &amp;lt;/ol&amp;gt;
-            &amp;lt;/li&amp;gt;
-            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 7 of Windows 2008r2 met IIS7.5&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
-                &amp;lt;ol style="list-style-type: circle;"&amp;gt;
-                    &amp;lt;li&amp;gt;The IIS AppPool\AppPoolIdentity virtuele user moet Lees, Schrijf en Aanpassen rechten
-                        hebben op de gehele applicatie directory.&amp;lt;/li&amp;gt;
-                &amp;lt;/ol&amp;gt;
-            &amp;lt;/li&amp;gt;
-        &amp;lt;/ul&amp;gt;
-        &amp;lt;p&amp;gt;
-            &amp;lt;img alt="Afbeelding die toont dat de beveiligingsinstellingen voor de hoofdmap van de website moet worden ingesteld op Lezen, Schrijven en Modify voor de ASPNET of NT AUTHORITY / NETWORK SERVICE accounts."
-                src="images/403-3.gif" /&amp;gt;&amp;lt;/p&amp;gt;
-    &amp;lt;/div&amp;gt;</value>
+    <value>&lt;div style="height: 100%; width: 90%;"&gt; &lt;h3&gt;DNN-configuratiefout&lt;/h3&gt; &lt;p&gt;{0}&lt;/p&gt; &lt;p&gt;Uw DNN-installatie lijkt een probleem te hebben met de beveiligingsinstellingen (hoogstwaarschijnlijk machtigingen). DNN biedt uitgebreide mogelijkheden voor het uploaden van bestanden voor content, modules en thema's. Deze functies vereisen aangepaste beveiligingsinstellingen, zodat de applicatie bestanden op uw website kan aanmaken en verwijderen.&lt;/p&gt; &lt;p&gt;Ga op uw webserver naar de hoofdmap van de website (standaard C:\DotNetNuke) met Windows Verkenner. Klik met de rechtermuisknop op de map en selecteer 'Delen en beveiliging' in het pop-upmenu. Selecteer het tabblad 'Beveiliging'. Voeg het juiste gebruikersaccount toe en stel de juiste machtigingen in voor de ASP.Net-gebruiker, zoals gespecificeerd in de geavanceerde instellingen van de IIS-toepassingsgroep die uw website host.&lt;/p&gt;&lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt; &lt;li&gt;&lt;strong&gt;Als u een benoemd account gebruikt, zoals het ingebouwde "NT AUTHORITY\NETWORK SERVICE"&lt;/strong&gt;&lt;br/&gt; &lt;ol style="list-style-type: circle;"&gt; &lt;li&gt;Het gebruikersaccount moet lees-, schrijf-, lees- en uitvoer- en wijzigingsmachtiging hebben.&lt;/li&gt; &lt;/ol&gt; &lt;br/&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Als u "ApplicationPoolIdentity" gebruikt (aanbevolen)&lt;/strong&gt;&lt;br/&gt; &lt;ol style="list-style-type: circle;"&gt; &lt;li&gt;Het gebruikersaccount IIS AppPool\[AppPool Name] (vervang [AppPool Name] door de echte naam van de IIS-toepassingsgroep) moet lees-, schrijf-, lees- en uitvoer- en wijzigingsmachtiging hebben.&lt;/li&gt; toestemming.&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;img alt="Afbeelding die laat zien dat de beveiligingsinstellingen voor de hoofdmap van de website moeten zijn ingesteld op Lezen, Schrijven en Wijzigingsbeheer voor een benoemd account." src="images/403-3.gif"&gt;&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="404.Error" xml:space="preserve">
-    <value>    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
-        &amp;lt;p style="color: red; font-weight: bold;"&amp;gt;
-            Domeinnaam {0} bestaat niet in de database&amp;lt;/p&amp;gt;
-        &amp;lt;p&amp;gt;
-            DNN
-            ondersteunt meerdere websites vanuit een enkele applicatie. Om dit goed te 
-            kunnen laten werken, wordt de opgevraagde URL omgezet in een zogenaamde PortalId 
-            uit de PortalAlias tabel in de database. Dit proces werkt als volgt:&amp;lt;/p&amp;gt;
-        &amp;lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&amp;gt;
-            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Web Server Processingver Processing&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
-                &amp;lt;ul style="list-style-type: disc;"&amp;gt;
-                    &amp;lt;li&amp;gt;Zodra de webserver een request ontvangt van de client, wordt the bestandsextensie waar 
-                        de URL mee eindigt vergeleken met de Application Extension Mappings zoals 
-                        gedefinieer in IIS.&amp;lt;/li&amp;gt;
-                    &amp;lt;li&amp;gt;Afhankelijk van de soort match wordt het request door IIS doorgestuurd naar de 
-                        in IIS gedefinieerde applicatie die dit request kan afhandelen (In IIS6 nis dit 
-                        aspnet_asapi.dll voor ASP.NET requests)&amp;lt;/li&amp;gt;
-                    &amp;lt;li&amp;gt;aspnet_isapi.dll&amp;amp;nbsp; behandelt het request in een vaste volgorde, beginnend 
-                        bij Application_BeginRequest&amp;lt;/li&amp;gt;
-                &amp;lt;/ul&amp;gt;
-            &amp;lt;/li&amp;gt;
-            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;HttpModule.URLRewrite OnBeginRequest ( UrlRewriteModule.cs)&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
-                &amp;lt;ul style="list-style-type: disc;"&amp;gt;
-                    &amp;lt;li&amp;gt;De opgevraagde URL wordt opgedeeld op basis van de slash (&amp;amp;quot;/&amp;amp;quot;)&amp;lt;/li&amp;gt;
-                    &amp;lt;li&amp;gt;Uit de relevante delen wordt een domeinnaam opgesteld&amp;lt;br /&amp;gt;
-                        &amp;lt;br /&amp;gt;Voorbeelden:
-                        &amp;lt;br /&amp;gt;
-                        &amp;lt;br /&amp;gt;URL: https://www.domain.com/default.aspx = 
-                        Domeinnaam: www.domain.com&amp;lt;br /&amp;gt;URL: https://209.75.24.131/default.aspx = 
-                        Domeinnaam: 209.75.24.131&amp;lt;br /&amp;gt;URL: http://localhost/DotNetNuke/default.aspx = 
-                        Domeinnaam: localhost/DotNetNuke&amp;lt;br /&amp;gt;URL: https://www.domain.com/virtualdirectory/default.aspx = 
-                        DomeinnaaURL: https://www.domain.com/directory/default.aspx = 
-                        Domeinnaam: www.domain.com/directory&amp;lt;br /&amp;gt;
-                        &amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;
-                    &amp;lt;li&amp;gt;Met behulp van de domeinnaam wordt het bijpassende record uit de PortalAlias 
-                        tabel opgezocht.
-                        &amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;
-                &amp;lt;/ul&amp;gt;
-            &amp;lt;/li&amp;gt;
-        &amp;lt;/ol&amp;gt;
-    &amp;lt;/div&amp;gt;</value>
+    <value>&lt;div style="height: 100%; width: 90%;"&gt;
+
+&lt;p style="color:red; font-weight:bold;"&gt;Domeinnaam {0} bestaat niet in de database&lt;/p&gt;
+
+&lt;p&gt;Dit systeem ondersteunt meerdere websites vanuit één database/codebasis. Dit wordt bereikt door de URL van het verzoek van de clientbrowser om te zetten naar een geldige rij in de Portals-databasetabel.&lt;/p&gt; De volgende stappen beschrijven het proces:&lt;/p&gt;
+
+&lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;
+
+&lt;li&gt;&lt;strong&gt;Webserververwerking&lt;/strong&gt;&lt;br /&gt;
+
+&lt;ul style="list-style-type: disc;"&gt;
+
+&lt;li&gt;Wanneer een webserver een verzoek ontvangt van een clientbrowser, vergelijkt deze de bestandsextensie van de doel-URL met de in IIS gedefinieerde toepassingsextensietoewijzingen.&lt;/li&gt;
+
+&lt;li&gt;Op basis van de overeenkomst stuurt IIS het verzoek vervolgens door naar het gedefinieerde uitvoerbare pad (aspnet_isapi.dll in het geval van ASP.NET-verzoeken).&lt;/li&gt;
+
+&lt;li&gt;De aspnet_isapi.dll-engine verwerkt het verzoek in een geordende reeks gebeurtenissen, beginnend met Application_BeginRequest.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;HttpModule.URLRewrite OnBeginRequest (UrlRewriteModule.vb)&lt;/strong&gt;&lt;br /&gt;
+
+&lt;ul style="list-style-type: disc;"&gt;
+
+&lt;li&gt;De URL van het verzoek wordt geparseerd op basis van het teken "/"&lt;/li&gt;
+
+&lt;li&gt;Een domeinnaam wordt samengesteld met behulp van elk van de relevante geparseerde URL-segmenten.&lt;br /&gt;
+
+&lt;br /&gt;
+
+Voorbeelden:&lt;br /&gt;
+
+URL: https://www.domain.com/default.aspx = Domeinnaam: www.domain.com&lt;br /&gt;
+
+URL: https://209.75.24.131/default.aspx = Domeinnaam: 209.75.24.131&lt;br /&gt;
+
+URL: https://localhost/DotNetNuke/default.aspx = Domeinnaam: localhost/DotNetNuke&lt;br /&gt;
+
+URL: https://www.domain.com/virtualdirectory/default.aspx = Domeinnaam: www.domain.com/virtualdirectory&lt;br /&gt;
+
+URL: https://www.domain.com/directory/default.aspx = Domeinnaam: www.domain.com/directory&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;Met behulp van de domeinnaam raadpleegt de applicatie de database (tabel PortalAlias ​​- kolom HTTPAlias) om een ​​overeenkomend record te vinden.&lt;br /&gt;
+
+&lt;br /&gt;
+
+Opmerking: Als u de applicatie op een externe server installeert, moet u de waarde van het veld HTTPAlias ​​in tabel PortalAlias ​​voor het record met de juiste PortalID aanpassen volgens de hierboven gedefinieerde regels.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</value>
   </data>
   <data name="500.Error" xml:space="preserve">
     <value>{0}</value>
@@ -692,7 +670,7 @@ Met vriendelijke groet,
   </data>
   <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
     <value>Datum: [Date:Current]
-Weergave naam: [User:DisplayName]
+Weergavenaam: [User:DisplayName]
 Email: [User:Email]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
@@ -1219,7 +1197,7 @@ SOFTWARE.&lt;/p&gt;</value>
     <value>Deze site is bezocht terwijl er een installatie of upgrade werd uitgevoerd.</value>
   </data>
   <data name="SkinLoadError.Text" xml:space="preserve">
-    <value>Thema {0}, kan niet worden geladen. Fout: {1}&amp;lt;br /&amp;gt;</value>
+    <value>Thema {0}, kan niet worden geladen. Fout: {1}&lt;br/&gt;</value>
   </data>
   <data name="SyndicateModule.Action" xml:space="preserve">
     <value>Syndicatie</value>

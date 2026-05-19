@@ -80,7 +80,7 @@
     <value>Bestand aanmaken controle</value>
   </data>
   <data name="FileDeleteCheck.Text" xml:space="preserve">
-    <value>Bestand verwijderen controle</value>
+    <value>Bestand verwijderen controlen</value>
   </data>
   <data name="FolderCreateCheck.Text" xml:space="preserve">
     <value>Map aanmaken controle</value>
@@ -140,7 +140,7 @@
     <value>Website informatie</value>
   </data>
   <data name="WebsiteName.Text" xml:space="preserve">
-    <value>Website naam</value>
+    <value>Websitenaam</value>
   </data>
   <data name="WebsiteTemplate.Text" xml:space="preserve">
     <value>Sjabloon </value>
@@ -260,7 +260,7 @@
     <value>Database script installeren </value>
   </data>
   <data name="InstallingMembershipDatabaseScriptStep.Text" xml:space="preserve">
-    <value>Lidmaatschap database scripts installeren</value>
+    <value>Scripts installeren voor de ledenadministratie</value>
   </data>
   <data name="ProcessingUpgradeScript.Text" xml:space="preserve">
     <value>Upgrade script toepassen </value>
@@ -302,7 +302,7 @@
     <value>Dit taalpakket is ouder dan de huidige applicatieversie : </value>
   </data>
   <data name="TemplateBlank.Text" xml:space="preserve">
-    <value>Leeg Sjabloon</value>
+    <value>Leeg sjabloon</value>
   </data>
   <data name="NoInstallationLog.Text" xml:space="preserve">
     <value>Geen installatielogboek</value>
@@ -393,7 +393,7 @@ Standaard database configuratie-optie is niet beschikbaar</value>
     <value>Gebruikersnaam is vereist.</value>
   </data>
   <data name="WebsiteName.Required" xml:space="preserve">
-    <value>Website naam is vereist.</value>
+    <value>Websitenaam is vereist.</value>
   </data>
   <data name="HostWarning.Text" xml:space="preserve">
     <value>Je hostnaam bevat ongeldige tekens (alleen a-Z, 0-9, - en . zijn toegestaan). Je moet de gebruikte hostnaam aanpassen.</value>
@@ -407,7 +407,7 @@ Gebruik Windows Verkenner om naar de mappen van je website te gaan ( {0} ). Klik
 &lt;p&gt;Het IIS AppPool\DefaultAppPool Gebruikersaccount moet Lezen, Schrijven en Wijzigingsbeheer hebben over de virtuele hoofdmap van je website.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Opnieuw controleren&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="InstallVersion.Text" xml:space="preserve">
-    <value>Installatie versie toevoegen</value>
+    <value>Installatieversie toevoegen</value>
   </data>
   <data name="FcnMode.Text" xml:space="preserve">
     <value>FcnMode toevoegen</value>
