@@ -80,7 +80,7 @@
     <value>Bestand aanmaken controle</value>
   </data>
   <data name="FileDeleteCheck.Text" xml:space="preserve">
-    <value>Bestand verwijderen controlen</value>
+    <value>Bestand verwijderen controleren</value>
   </data>
   <data name="FolderCreateCheck.Text" xml:space="preserve">
     <value>Map aanmaken controle</value>
