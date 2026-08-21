@@ -502,14 +502,14 @@ Verzenden compleet op:      [Custom:3]
 &lt;/table&gt;&lt;/div&gt;</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
-    <value>Beste [Profile:DisplayName],
+    <value>Beste [User:DisplayName],
 
 Je hebt een wachtwoordherstel aangevraagd van de [Portal:PortalName] website.
 
-Website Addres: [Portal:URL]
+Website: [Portal:URL]
 Gebruikersnaam: [User:Username]
 
-Link naar de wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
+Link naar de wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;resetToken=[Membership:PasswordResetToken]
 
 Met vriendelijke groet,
 [Portal:PortalName]
